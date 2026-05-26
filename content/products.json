@@ -1,0 +1,190 @@
+[
+  {
+    "id": "girl-with-a-pearl-earring",
+    "name": "Girl with a Pearl Earring",
+    "slug": "girl-with-a-pearl-earring",
+    "price": 6800,
+    "currency": "CAD",
+    "category": "Famous Artworks",
+    "description": "A meditation in Carrara white and warm amber, cut into 14,200 tesserae across a 36 × 24 in panel. Vermeer's luminous 1665 masterwork, faithfully rendered in marble and stone by our artisans in Jaipur. Each tessera is honed; the pearl itself is set in polished Murano glass. Framed in reclaimed walnut.",
+    "shortDescription": "After Vermeer, 1665 — 14,200 tesserae in Carrara marble and Murano glass.",
+    "images": [
+      "/images/products/girl-with-a-pearl-earring/main.png",
+      "/images/products/girl-with-a-pearl-earring/lifestyle.png",
+      "/images/products/girl-with-a-pearl-earring/detail.png"
+    ],
+    "dimensions": [
+      { "label": "Medium", "size": "18 × 24 in", "price": 4200 },
+      { "label": "Large", "size": "24 × 32 in", "price": 6800 },
+      { "label": "Grand", "size": "36 × 48 in", "price": 9400 }
+    ],
+    "materials": ["Carrara Marble", "Murano Glass", "Natural Stone", "Reclaimed Walnut Frame"],
+    "featured": true,
+    "inStock": true,
+    "tags": ["masterworks", "vermeer", "portrait", "marble", "classic"],
+    "tesserae": "14,200",
+    "metaTitle": "Girl with a Pearl Earring Mosaic — Mosaic Canvas",
+    "metaDescription": "Vermeer's 1665 masterwork rendered in 14,200 hand-cut Carrara marble tesserae. Handcrafted in Jaipur, shipped worldwide."
+  },
+  {
+    "id": "lion-portrait",
+    "name": "The Lion, Majesty",
+    "slug": "lion-portrait",
+    "price": 7500,
+    "currency": "CAD",
+    "category": "Animals",
+    "description": "Tiger-eye and travertine compose this commanding portrait — 12,100 tesserae, each cut to follow the direction of each strand of the mane. The eyes are polished obsidian. A symbol of strength and sovereignty, rendered in stone that will outlast any canvas. Framed in brushed bronze.",
+    "shortDescription": "Tiger-eye & travertine — 12,100 tesserae. A commanding portrait in natural stone.",
+    "images": [
+      "/images/products/lion-portrait/main.png",
+      "/images/products/lion-portrait/lifestyle.png",
+      "/images/products/lion-portrait/detail.jpg"
+    ],
+    "dimensions": [
+      { "label": "Medium", "size": "18 × 24 in", "price": 4600 },
+      { "label": "Large", "size": "24 × 32 in", "price": 7500 },
+      { "label": "Grand", "size": "36 × 48 in", "price": 10800 }
+    ],
+    "materials": ["Tiger-Eye Stone", "Travertine", "Polished Obsidian", "Brushed Bronze Frame"],
+    "featured": true,
+    "inStock": true,
+    "tags": ["animals", "lion", "stone", "portrait", "fauna"],
+    "tesserae": "12,100",
+    "metaTitle": "The Lion, Majesty Mosaic — Mosaic Canvas",
+    "metaDescription": "A commanding lion portrait in tiger-eye and travertine — 12,100 hand-cut tesserae, handcrafted in Jaipur."
+  },
+  {
+    "id": "lotus-bloom",
+    "name": "The Lotus, Serene",
+    "slug": "lotus-bloom",
+    "price": 4900,
+    "currency": "CAD",
+    "category": "Floral",
+    "description": "A meditation in Carrara white and deep Jaipur teal, cut into 9,400 tesserae across a 36 × 24 in panel. Each petal is polished; each leaf, honed. The stem rises from a bed of dark Nero Marquina marble, suggesting still water at dawn. Framed in reclaimed teak.",
+    "shortDescription": "Carrara marble & deep Jaipur teal — 9,400 tesserae. A meditation in still stone.",
+    "images": [
+      "/images/products/lotus-bloom/main.png",
+      "/images/products/lotus-bloom/lifestyle.jpg",
+      "/images/products/lotus-bloom/detail.jpg"
+    ],
+    "dimensions": [
+      { "label": "Small", "size": "12 × 16 in", "price": 2800 },
+      { "label": "Medium", "size": "18 × 24 in", "price": 4900 },
+      { "label": "Large", "size": "24 × 32 in", "price": 7200 }
+    ],
+    "materials": ["Carrara Marble", "Nero Marquina", "Deep Teal Stone", "Reclaimed Teak Frame"],
+    "featured": true,
+    "inStock": true,
+    "tags": ["floral", "lotus", "marble", "teal", "botanical"],
+    "tesserae": "9,400",
+    "metaTitle": "The Lotus, Serene Mosaic — Mosaic Canvas",
+    "metaDescription": "9,400 hand-cut tesserae in Carrara marble and deep Jaipur teal. A serene lotus composition, handcrafted in Jaipur."
+  },
+  {
+    "id": "peacock",
+    "name": "Peacock, Unfurled",
+    "slug": "peacock",
+    "price": 9200,
+    "currency": "CAD",
+    "category": "Animals",
+    "description": "Malachite, lapis lazuli, and 22k gold leaf — 15,800 tesserae in the most material-rich composition in our atelier. The tail feathers fan across 48 inches of panel, each eye rendered in concentric rings of emerald and sapphire stone. No two gold-leaf tesserae reflect the same light. Framed in blackened steel.",
+    "shortDescription": "Malachite, lapis & 22k gold leaf — 15,800 tesserae. The most jewel-toned work we make.",
+    "images": [
+      "/images/products/peacock/main.png",
+      "/images/products/peacock/lifestyle.jpg",
+      "/images/products/peacock/detail.png"
+    ],
+    "dimensions": [
+      { "label": "Medium", "size": "24 × 32 in", "price": 9200 },
+      { "label": "Grand", "size": "36 × 48 in", "price": 14600 }
+    ],
+    "materials": ["Malachite", "Lapis Lazuli", "22k Gold Leaf", "Emerald Stone", "Blackened Steel Frame"],
+    "featured": true,
+    "inStock": true,
+    "tags": ["animals", "peacock", "gold", "malachite", "lapis", "fauna"],
+    "tesserae": "15,800",
+    "metaTitle": "Peacock, Unfurled Mosaic — Mosaic Canvas",
+    "metaDescription": "15,800 tesserae in malachite, lapis lazuli and 22k gold leaf. The most jewel-toned composition in our atelier."
+  },
+  {
+    "id": "rose-bouquet",
+    "name": "Roses in Bloom",
+    "slug": "rose-bouquet",
+    "price": 4400,
+    "currency": "CAD",
+    "category": "Floral",
+    "description": "Nine cultivars, rendered across 8,200 tesserae of rose quartz, Murano glass, and natural red and pink stone. The petals unfurl in the warm light of mid-afternoon — a composition that never wilts. Each leaf is cut from Verde Guatemala marble. Framed in walnut.",
+    "shortDescription": "Nine rose cultivars in rose quartz & Murano glass — 8,200 tesserae.",
+    "images": [
+      "/images/products/rose-bouquet/main.png",
+      "/images/products/rose-bouquet/lifestyle.png",
+      "/images/products/rose-bouquet/detail.png"
+    ],
+    "dimensions": [
+      { "label": "Small", "size": "12 × 16 in", "price": 2600 },
+      { "label": "Medium", "size": "18 × 24 in", "price": 4400 },
+      { "label": "Large", "size": "24 × 32 in", "price": 6600 }
+    ],
+    "materials": ["Rose Quartz", "Murano Glass", "Verde Guatemala Marble", "Natural Stone", "Walnut Frame"],
+    "featured": false,
+    "inStock": true,
+    "tags": ["floral", "roses", "rose-quartz", "botanical"],
+    "tesserae": "8,200",
+    "metaTitle": "Roses in Bloom Mosaic — Mosaic Canvas",
+    "metaDescription": "Nine rose cultivars in 8,200 hand-cut tesserae of rose quartz and Murano glass. Handcrafted in Jaipur, India."
+  },
+  {
+    "id": "sunflowers",
+    "name": "Sunflowers",
+    "slug": "sunflowers",
+    "price": 6200,
+    "currency": "CAD",
+    "category": "Famous Artworks",
+    "description": "After Van Gogh, 1888. Eleven sunflowers in a Delft-blue vase — 11,600 tesserae in warm amber, ochre, and Siena stone. The brushwork of the original is captured in the varied angle of each cut. A composition that carries both the weight of stone and the warmth of summer. Framed in aged oak.",
+    "shortDescription": "After Van Gogh, 1888 — 11,600 tesserae in amber and Siena stone.",
+    "images": [
+      "/images/products/sunflowers/main.png",
+      "/images/products/sunflowers/lifestyle.jpg",
+      "/images/products/sunflowers/detail.png"
+    ],
+    "dimensions": [
+      { "label": "Medium", "size": "18 × 24 in", "price": 3800 },
+      { "label": "Large", "size": "24 × 32 in", "price": 6200 },
+      { "label": "Grand", "size": "36 × 48 in", "price": 8800 }
+    ],
+    "materials": ["Amber Stone", "Siena Marble", "Ochre Limestone", "Aged Oak Frame"],
+    "featured": true,
+    "inStock": true,
+    "tags": ["masterworks", "van-gogh", "floral", "stone"],
+    "tesserae": "11,600",
+    "metaTitle": "Sunflowers Mosaic — Mosaic Canvas",
+    "metaDescription": "Van Gogh's 1888 Sunflowers in 11,600 hand-cut tesserae of amber and Siena stone. Handcrafted in Jaipur, India."
+  },
+  {
+    "id": "wild-garden",
+    "name": "Wildflower Meadow",
+    "slug": "wild-garden",
+    "price": 4100,
+    "currency": "CAD",
+    "category": "Floral",
+    "description": "Seven species — cornflower, poppy, chamomile, lavender, clover, foxglove, and wild rose — across 7,400 tesserae of mixed stone. A meadow caught in late-afternoon gold. The composition is deliberately loose, wild in its arrangement, ordered only by season and colour. Framed in natural linen.",
+    "shortDescription": "Seven wildflower species in mixed stone — 7,400 tesserae. A meadow in late-afternoon gold.",
+    "images": [
+      "/images/products/wild-garden/main.png",
+      "/images/products/wild-garden/lifestyle.png",
+      "/images/products/wild-garden/detail.jpg"
+    ],
+    "dimensions": [
+      { "label": "Small", "size": "12 × 16 in", "price": 2400 },
+      { "label": "Medium", "size": "18 × 24 in", "price": 4100 },
+      { "label": "Large", "size": "24 × 32 in", "price": 6000 }
+    ],
+    "materials": ["Mixed Natural Stone", "Lapis Fragments", "Jasper", "Natural Linen Frame"],
+    "featured": false,
+    "inStock": true,
+    "tags": ["floral", "wildflowers", "nature", "botanical"],
+    "tesserae": "7,400",
+    "metaTitle": "Wildflower Meadow Mosaic — Mosaic Canvas",
+    "metaDescription": "Seven wildflower species in 7,400 hand-cut tesserae of mixed stone. A meadow caught in late-afternoon gold."
+  }
+]
